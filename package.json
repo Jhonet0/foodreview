@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eduardorahal/foodreview.git"
+    "url": "git+https://github.com/Jhonet0/foodreview.git"
   },
   "keywords": [
     "review",
@@ -18,12 +18,12 @@
     "food",
     "app"
   ],
-  "author": "Eduardo Rahal",
+  "author": "Jhonet0",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/eduardorahal/foodreview/issues"
+    "url": "https://github.com/Jhonet0/foodreview/issues"
   },
-  "homepage": "https://github.com/eduardorahal/foodreview#readme",
+  "homepage": "https://github.com/Jhonet0/foodreview#readme",
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
